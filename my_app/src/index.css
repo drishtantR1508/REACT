@@ -1,0 +1,13 @@
+body {
+  background-color: #253341;
+}
+
+.button {
+  background-color: rgb(63, 231, 231);
+  text-decoration: none;
+  color: white;
+  padding: 15px 20px;
+  font: 20px sans-serif;
+  margin-top: 5px;
+  margin-right: 10px;
+}
